@@ -1,3 +1,2 @@
-python
 
-nosetests --with-xcoverage --with-xunit
+nosetests --with-xunit
